@@ -1,4 +1,3 @@
-layout_spectrum: 0.21530249435454607
 typography_spectrum: 0.06423220643773675
 color:
   brandStrength: 0.022345867473632097
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.21530249435454607
 name: NU / reclame
 title: NU / on the grid
+description: Creatief nieuws uit Zwolle
