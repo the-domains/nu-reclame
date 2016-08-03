@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.21530249435454607
 name: NU / reclame
+navigation:
+  - name: Updating LA's Historic Hollywood Roosevelt Hotel
+    id: 059ffbd7-8913-476b-b43c-9c6695be758b
+    type: content
 title: NU / on the grid
 description: Creatief nieuws uit Zwolle
