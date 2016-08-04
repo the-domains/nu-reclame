@@ -1,16 +1,16 @@
-typography_spectrum: 0.06423220643773675
+typography_spectrum: 0.8365128296427429
 color:
-  brandStrength: 0.022345867473632097
-  lightness: 0.787454075878486
-  saturation: 0.6407269218470901
-  rhythmicContrast: 0.3360843393020332
+  brandStrength: 0.36352850683033466
+  lightness: 0.592931229621172
+  saturation: 0.556258040945977
+  rhythmicContrast: 0.240576162468642
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.21530249435454607
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+layout_spectrum: 0.8400966781191528
 name: NU / reclame
 navigation:
   - name: Updating LA's Historic Hollywood Roosevelt Hotel
